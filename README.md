@@ -12,6 +12,8 @@ Biblioteca JavaScript para aplicação de máscaras em campos HTML de forma simp
   - Telefone
   - CEP
   - Datas
+  - Data e Hora
+  - Hora
   - Valores monetários
 - Aplicação automática via seletor CSS
 - Compatível com JavaScript puro
